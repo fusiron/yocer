@@ -1,0 +1,10 @@
+[package]
+name = "yocer"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "yocer"
+repository = "https://github.com/fusiron/yocer.git"
+readme = "README.md"
+
+[dependencies]
